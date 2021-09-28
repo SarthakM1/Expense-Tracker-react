@@ -1,0 +1,2 @@
+use this command
+yarn add styled-components react-router react-icons
